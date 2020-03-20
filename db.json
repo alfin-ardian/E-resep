@@ -1,0 +1,70 @@
+{
+  "reseps": [
+    {
+      "id": 8,
+      "judul": "Cafe Badilico",
+      "by": "agus setiamus",
+      "keterangan": " Small plates, salads & sandwiches - an intimate setting with 12 indoor seats plus patio seating",
+      "bahan": "",
+      "resep": "cara membuat jamur krispi",
+      "gambar": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "kategori": "masakan eropa",
+      "id_kategori": 2
+    },
+    {
+      "judul": "indomie telor",
+      "by": "alfin",
+      "keterangan": "indomie enak",
+      "resep": "rebus air",
+      "gambar": "https://www.pegipegi.com/travel/wp-content/uploads/2017/06/indomie-goreng.jpg",
+      "id": 19,
+      "kategori": "masakan asia",
+      "id_kategori": 1,
+      "bahan": "mie"
+    },
+    {
+      "judul": "sate",
+      "keterangan": "sate ayam enak dengan saos kacang mantap",
+      "id_kategori": 1,
+      "by": "alfin",
+      "gambar": "https://selerasa.com/wp-content/uploads/2015/06/images_daging_sate-santan.jpeg",
+      "bahan": "250 gram usus ayam\n3 lembar daun jeruk\n1 ruas jahe geprek\n1 batang sereh\n1 lembar daun salam\n1 sdt saos tiram\nsecukupnya Gula, garam, penyedap",
+      "resep": "Bersihkan usus ayam, kemudian rebus bersama 2 lembar daun jeruk, jahe dan sereh hingga empuk (untuk menghilangkan bau usus), lalu tiriskan\n\n  \nTumis bumbu halus hingga harum, beri air sedikit, tambahkan saos tiram, garam, gula, penyedap sedikit saja lalu cek rasa, masukkan daun salam dan selembar daun jeruk\n\n  \nMasukkan usus ayam yg sudah ditiriskan ke dalam bumbu tersebut, aduk hingga merata lalu masak hingga bumbu menyerap\n\n  \nAngkat, dinginkan lalu tusuk dengan tusuk sate dan sajikan",
+      "id": 24,
+      "kategori": "masakan asia"
+    },
+    {
+      "judul": "hot dog",
+      "keterangan": "with spicy souce and big sosis",
+      "id_kategori": "3",
+      "kategori": "masakan amerika",
+      "by": "alfin",
+      "gambar": "https://awsimages.detik.net.id/community/media/visual/2018/07/06/1e7f18e4-5b25-4f79-8d9a-e3af2bea8560_169.jpeg?w=700&q=90",
+      "bahan": "roti\nsosis\nsayur",
+      "resep": "masukan semuanya makan",
+      "id": 25
+    },
+    {
+      "judul": "nasi goreng",
+      "keterangan": "pedas",
+      "id_kategori": "1",
+      "kategori": "masakan asia",
+      "by": "juni",
+      "gambar": "https://i0.wp.com/eatwellabi.com/wp-content/uploads/2019/01/IMG_5172.jpg?resize=750%2C840&ssl=1",
+      "bahan": "nasi\nkecap\nsosis\ntelor",
+      "resep": "rebus telor,\ngoreng nasi\nkasih kecap,\ntaburkan sosis",
+      "id": 26
+    },
+    {
+      "judul": "taco",
+      "keterangan": "rasa pedas enak",
+      "id_kategori": "3",
+      "kategori": "masakan amerika",
+      "by": "Juna",
+      "gambar": "https://www.jejakpiknik.com/wp-content/uploads/2019/05/ee-1-630x380.jpeg",
+      "bahan": "fggfbg",
+      "resep": "bkhxggcydydjfjhsbd",
+      "id": 27
+    }
+  ]
+}
